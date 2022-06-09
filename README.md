@@ -1,4 +1,4 @@
-### Hi there, I'm Sulyman - AKA Dev-suite
+
 
 <p align="center">
   <img src="https://pbs.twimg.com/profile_banners/1281895439357423616/1654770308/600x200" alt="my-banner">
@@ -8,9 +8,6 @@
 I'm a Full-Stack Web Developer 💻, and Designer 🎨!
 </h2> 
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
-</h2> 
 
 I love the entire process of developing creative websites.
 
