@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1281895439357423616/1654770308/600x200" alt="my-banner">
+  <img src="https://drive.google.com/file/d/1AFh_BKjlhWlfGeWtG9aqJMa57zusKVEy/view?usp=sharing" alt="my-banner">
 </p>
 
 <h2 align="center">
