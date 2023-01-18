@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1281895439357423616/1665035321/1500x500" alt="my-banner">
+  <img src="https://pbs.twimg.com/profile_banners/1281895439357423616/1674029270/1500x500" alt="my-banner">
 </p>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, and Designer 🎨!
+I'm a Front End Web Developer 💻, and Designer 🎨!
 </h2> 
 
 
